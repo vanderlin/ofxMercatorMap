@@ -1,3 +1,5 @@
+![ofxMercatorMap](https://raw.github.com/vanderlin/ofxMercatorMap/master/example/bin/data/2.png)
+
 ofxMercatorMap
 ==============
 
